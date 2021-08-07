@@ -29,7 +29,7 @@ require("./util/eventLoader.js")(client);
 
 //===============================================================================\\
 client.on("ready", async () => {
-  client.user.setActivity(`;help`, {
+  client.user.setActivity(`Discord Bot Games`, {
     type: "PLAYING"
   });
 });
