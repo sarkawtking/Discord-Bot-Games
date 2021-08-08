@@ -1,1 +1,1 @@
-# Banano
+# Discord bot games
